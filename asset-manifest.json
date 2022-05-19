@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Online-Offline-/static/css/main.339034c0.css",
+    "main.js": "/Online-Offline-/static/js/main.323e1cc1.js",
+    "service-worker.js": "/Online-Offline-/service-worker.js",
+    "index.html": "/Online-Offline-/index.html",
+    "main.339034c0.css.map": "/Online-Offline-/static/css/main.339034c0.css.map",
+    "main.323e1cc1.js.map": "/Online-Offline-/static/js/main.323e1cc1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.339034c0.css",
+    "static/js/main.323e1cc1.js"
+  ]
+}
